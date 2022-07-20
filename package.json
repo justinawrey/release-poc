@@ -1,0 +1,25 @@
+{
+  "name": "release-poc",
+  "version": "1.0.0",
+  "description": "release workflow poc",
+  "main": "index.js",
+  "type": "module",
+  "private": "true",
+  "packageManager": "pnpm@7.5.2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinawrey/release-poc.git"
+  },
+  "author": "Justin Awrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justinawrey/release-poc/issues"
+  },
+  "homepage": "https://github.com/justinawrey/release-poc#readme",
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1",
+    "semantic-release": "^19.0.3",
+    "semantic-release-monorepo": "^7.0.5"
+  }
+}

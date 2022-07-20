@@ -1,0 +1,10 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "type": "module",
+  "private": true,
+  "author": "Justin Awrey",
+  "license": "ISC"
+}
