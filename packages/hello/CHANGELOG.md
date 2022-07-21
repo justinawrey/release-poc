@@ -1,3 +1,15 @@
+# [hello-v2.0.0](https://github.com/justinawrey/release-poc/compare/hello-v1.10.0...hello-v2.0.0) (2022-07-21)
+
+
+### Features
+
+* :art: be polite ([b8b5e2e](https://github.com/justinawrey/release-poc/commit/b8b5e2e9a6a092cab258418145206ecb07bbb241))
+
+
+### BREAKING CHANGES
+
+* output is now polite
+
 # [hello-v1.10.0](https://github.com/justinawrey/release-poc/compare/hello-v1.9.0...hello-v1.10.0) (2022-07-21)
 
 
