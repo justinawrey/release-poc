@@ -1,3 +1,10 @@
+# [hello-v1.10.0](https://github.com/justinawrey/release-poc/compare/hello-v1.9.0...hello-v1.10.0) (2022-07-21)
+
+
+### Features
+
+* :fire: log hello ([d8cde8e](https://github.com/justinawrey/release-poc/commit/d8cde8e56e00148678eba81980bb73bfd795cf41))
+
 # [hello-v1.9.0](https://github.com/justinawrey/release-poc/compare/hello-v1.8.0...hello-v1.9.0) (2022-07-21)
 
 
