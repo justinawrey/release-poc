@@ -1,3 +1,10 @@
+# [hello-v1.8.0](https://github.com/justinawrey/release-poc/compare/hello-v1.7.0...hello-v1.8.0) (2022-07-21)
+
+
+### Features
+
+* scream ([7440759](https://github.com/justinawrey/release-poc/commit/744075964a9edab191adb8e318ee935754923911))
+
 # [hello-v1.7.0](https://github.com/justinawrey/release-poc/compare/hello-v1.6.0...hello-v1.7.0) (2022-07-21)
 
 
