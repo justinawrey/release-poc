@@ -1,3 +1,16 @@
+# [world-v1.1.0](https://github.com/justinawrey/release-poc/compare/world-v1.0.2...world-v1.1.0) (2022-07-21)
+
+
+### Bug Fixes
+
+* mo typos ([860e1d6](https://github.com/justinawrey/release-poc/commit/860e1d6bfe210c2b788bb0add42a06fb5286da1f))
+
+
+### Features
+
+* get really cool ([d931eeb](https://github.com/justinawrey/release-poc/commit/d931eeb40bf7ad31b6902035b7ba250da2e663e3))
+* happy output ([ea8d138](https://github.com/justinawrey/release-poc/commit/ea8d1388feae9a683c7b9c8ac166afb783814d37))
+
 # [world-v1.0.2](https://github.com/justinawrey/release-poc/compare/world-v1.0.1...world-v1.0.2) (2022-07-21)
 
 
