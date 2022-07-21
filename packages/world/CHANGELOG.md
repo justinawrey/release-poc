@@ -1,3 +1,10 @@
+# [world-v1.3.0](https://github.com/justinawrey/release-poc/compare/world-v1.2.0...world-v1.3.0) (2022-07-21)
+
+
+### Features
+
+* :sparkles: log world ([ceb48ff](https://github.com/justinawrey/release-poc/commit/ceb48ff76d92c4f7cbd09224f2093b654d69f95e))
+
 # [world-v1.2.0](https://github.com/justinawrey/release-poc/compare/world-v1.1.0...world-v1.2.0) (2022-07-21)
 
 
