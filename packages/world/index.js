@@ -1,3 +1,3 @@
 export default function world() {
-  console.log("world");
+  console.error("world");
 }
