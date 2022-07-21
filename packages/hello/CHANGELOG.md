@@ -1,3 +1,10 @@
+# [hello-v1.4.0](https://github.com/justinawrey/release-poc/compare/hello-v1.3.0...hello-v1.4.0) (2022-07-21)
+
+
+### Features
+
+* be spicy with the output ([6fc3d22](https://github.com/justinawrey/release-poc/commit/6fc3d222000086de22e0a88f9f0c6c58b41044d0))
+
 # [hello-v1.3.0](https://github.com/justinawrey/release-poc/compare/hello-v1.2.0...hello-v1.3.0) (2022-07-21)
 
 
