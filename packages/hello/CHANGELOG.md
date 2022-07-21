@@ -1,3 +1,10 @@
+# [hello-v1.7.0](https://github.com/justinawrey/release-poc/compare/hello-v1.6.0...hello-v1.7.0) (2022-07-21)
+
+
+### Features
+
+* make it HOT ([480c54a](https://github.com/justinawrey/release-poc/commit/480c54a4b306b6ba51f7db9b19440538ea5997a2))
+
 # [hello-v1.6.0](https://github.com/justinawrey/release-poc/compare/hello-v1.5.0...hello-v1.6.0) (2022-07-21)
 
 
