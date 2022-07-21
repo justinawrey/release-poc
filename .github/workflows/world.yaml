@@ -36,8 +36,13 @@ jobs:
     name: release
     runs-on: ubuntu-latest
     needs: pre-check
+    concurrency: release
 
     steps:
+      - name: Sleep 30s
+        run: sleep 30s
+        shell: bash
+
       - name: Checkout
         uses: actions/checkout@v2
         with:
