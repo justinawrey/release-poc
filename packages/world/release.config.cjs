@@ -1,7 +1,4 @@
-const config = require("../../release.base.config.cjs");
-const packageJson = require("./package.json");
+const getReleaseConfig = require("../../release.base.config.cjs");
+const name = require("./package.json").name;
 
-module.exports = {
-  ...config,
-  tagFormat: `${packageJson.name}-v\${version}`,
-};
+module.exports = getReleaseConfig({ name });
