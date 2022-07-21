@@ -12,7 +12,7 @@ module.exports = {
       {
         assets: ["package.json", "CHANGELOG.md"],
         message:
-          "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}",
+          "chore(release): ${nextRelease.gitTag} [skip ci]\n\n${nextRelease.notes}",
       },
     ],
   ],
