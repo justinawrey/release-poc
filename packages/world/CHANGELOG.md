@@ -1,3 +1,12 @@
+# [world-v1.2.0](https://github.com/justinawrey/release-poc/compare/world-v1.1.0...world-v1.2.0) (2022-07-21)
+
+
+### Features
+
+* introduce heaven ([38284ed](https://github.com/justinawrey/release-poc/commit/38284ed5fa3e35de506605e7757abb6e66e06721))
+* make it SPICY ([593bf70](https://github.com/justinawrey/release-poc/commit/593bf70c4b95ec3ba9494b4087904d5ea4f37efd))
+* whistper ([76590e7](https://github.com/justinawrey/release-poc/commit/76590e7dfac9a0108e730e50fcc3f7bb5805a047))
+
 # [world-v1.1.0](https://github.com/justinawrey/release-poc/compare/world-v1.0.2...world-v1.1.0) (2022-07-21)
 
 
