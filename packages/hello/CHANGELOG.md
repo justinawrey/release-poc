@@ -1,3 +1,10 @@
+# [hello-v1.3.0](https://github.com/justinawrey/release-poc/compare/hello-v1.2.0...hello-v1.3.0) (2022-07-21)
+
+
+### Features
+
+* be less verbose ([dda444d](https://github.com/justinawrey/release-poc/commit/dda444deb3e4669f497a60de8fc3aa37c848361e))
+
 # [hello-v1.2.0](https://github.com/justinawrey/release-poc/compare/hello-v1.1.0...hello-v1.2.0) (2022-07-21)
 
 
