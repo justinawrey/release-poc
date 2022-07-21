@@ -47,7 +47,9 @@ jobs:
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
-          run: git pull origin main
+
+      - name: Rebase latest
+        run: git pull origin main --rebase
 
       - name: Setup Node.js
         uses: actions/setup-node@v2
