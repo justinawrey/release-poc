@@ -1,3 +1,15 @@
+# [world-v2.0.0](https://github.com/justinawrey/release-poc/compare/world-v1.3.0...world-v2.0.0) (2022-07-21)
+
+
+### Features
+
+* :art: be polite ([b8b5e2e](https://github.com/justinawrey/release-poc/commit/b8b5e2e9a6a092cab258418145206ecb07bbb241))
+
+
+### BREAKING CHANGES
+
+* output is now polite
+
 # [world-v1.3.0](https://github.com/justinawrey/release-poc/compare/world-v1.2.0...world-v1.3.0) (2022-07-21)
 
 
