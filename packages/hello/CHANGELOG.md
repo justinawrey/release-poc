@@ -1,3 +1,10 @@
+# [hello-v1.5.0](https://github.com/justinawrey/release-poc/compare/hello-v1.4.0...hello-v1.5.0) (2022-07-21)
+
+
+### Features
+
+* get really cool ([d931eeb](https://github.com/justinawrey/release-poc/commit/d931eeb40bf7ad31b6902035b7ba250da2e663e3))
+
 # [hello-v1.4.0](https://github.com/justinawrey/release-poc/compare/hello-v1.3.0...hello-v1.4.0) (2022-07-21)
 
 
