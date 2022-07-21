@@ -4,6 +4,10 @@
   "description": "hello",
   "main": "index.js",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinawrey/release-poc.git"
+  },
   "scripts": {
     "test": "echo 'no test specified'"
   },
