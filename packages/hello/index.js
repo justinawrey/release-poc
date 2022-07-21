@@ -1,3 +1,3 @@
 export default function hello() {
-  console.log("hiya");
+  console.log("hiya doods");
 }
