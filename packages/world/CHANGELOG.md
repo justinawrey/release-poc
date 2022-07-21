@@ -1,3 +1,11 @@
+# [world-v1.0.2](https://github.com/justinawrey/release-poc/compare/world-v1.0.1...world-v1.0.2) (2022-07-21)
+
+
+### Bug Fixes
+
+* more typos ([c8514a9](https://github.com/justinawrey/release-poc/commit/c8514a987718b97c043fa88bab898223c6440729))
+* typo ([0c6b941](https://github.com/justinawrey/release-poc/commit/0c6b941c6997e7b27744bc47400168aa35e2c3cd))
+
 # [world-v1.0.1](https://github.com/justinawrey/release-poc/compare/world-v1.0.0...world-v1.0.1) (2022-07-21)
 
 
