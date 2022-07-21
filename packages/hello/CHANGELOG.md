@@ -1,3 +1,10 @@
+# [hello-v1.6.0](https://github.com/justinawrey/release-poc/compare/hello-v1.5.0...hello-v1.6.0) (2022-07-21)
+
+
+### Features
+
+* make it warm ([09acaa1](https://github.com/justinawrey/release-poc/commit/09acaa11b43d0c5b58ae10f2ac69e5cd26e6fe59))
+
 # [hello-v1.5.0](https://github.com/justinawrey/release-poc/compare/hello-v1.4.0...hello-v1.5.0) (2022-07-21)
 
 
