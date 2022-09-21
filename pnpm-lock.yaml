@@ -5,16 +5,15 @@ importers:
   .:
     specifiers:
       '@tsconfig/node16-strictest-esm': ^1.0.3
+      release-mfe: workspace:^1.0.0
       typescript: ^4.7.4
     devDependencies:
       '@tsconfig/node16-strictest-esm': 1.0.3
+      release-mfe: link:packages/release-mfe
       typescript: 4.8.3
 
   packages/hello:
-    specifiers:
-      release-mfe: workspace:^1.0.0
-    devDependencies:
-      release-mfe: link:../release-mfe
+    specifiers: {}
 
   packages/release-mfe:
     specifiers:
@@ -37,10 +36,7 @@ importers:
       semantic-release-monorepo: 7.0.5_semantic-release@19.0.3
 
   packages/world:
-    specifiers:
-      release-mfe: workspace:^1.0.0
-    devDependencies:
-      release-mfe: link:../release-mfe
+    specifiers: {}
 
 packages:
 
