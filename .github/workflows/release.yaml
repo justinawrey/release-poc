@@ -28,4 +28,4 @@ jobs:
       - name: Release all mfes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: pnpm --recursive release
+        run: pnpm --recursive exec release-mfe

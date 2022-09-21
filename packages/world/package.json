@@ -9,13 +9,9 @@
     "url": "git+https://github.com/justinawrey/release-poc.git"
   },
   "scripts": {
-    "test": "echo 'no test specified'",
-    "release": "release-mfe"
+    "test": "echo 'no test specified'"
   },
   "private": true,
   "author": "Justin Awrey",
-  "license": "ISC",
-  "devDependencies": {
-    "release-mfe": "workspace:^1.0.0"
-  }
+  "license": "ISC"
 }

@@ -18,6 +18,7 @@
   "homepage": "https://github.com/justinawrey/release-poc#readme",
   "devDependencies": {
     "typescript": "^4.7.4",
-    "@tsconfig/node16-strictest-esm": "^1.0.3"
+    "@tsconfig/node16-strictest-esm": "^1.0.3",
+    "release-mfe": "workspace:^1.0.0"
   }
 }
