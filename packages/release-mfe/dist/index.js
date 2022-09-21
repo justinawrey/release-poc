@@ -15,23 +15,18 @@ const config = {
         ],
         "@semantic-release/changelog",
         ["@semantic-release/npm", { npmPublish: false }],
-        // "@semantic-release/github",
-        // [
-        //   "@semantic-release/git",
-        //   {
-        //     assets: ["package.json", "CHANGELOG.md"],
-        //     message:
-        //       "chore(release): ${nextRelease.gitTag} [skip ci]\n\n${nextRelease.notes}",
-        //   },
-        // ],
+        "@semantic-release/github",
+        [
+            "@semantic-release/git",
+            {
+                assets: ["package.json", "CHANGELOG.md"],
+                message: "chore(release): ${nextRelease.gitTag} [skip ci]\n\n${nextRelease.notes}",
+            },
+        ],
     ],
 };
 try {
-    const result = await semanticRelease(config);
-    if (!result) {
-        process.exit(0);
-    }
-    console.log("nextRelease", result.nextRelease);
+    await semanticRelease(config);
 }
 catch (err) {
     console.error("The automated release failed with %O", err);
