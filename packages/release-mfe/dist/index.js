@@ -15,7 +15,7 @@ const config = {
         ],
         "@semantic-release/changelog",
         ["@semantic-release/npm", { npmPublish: false }],
-        "@semantic-release/github",
+        // "@semantic-release/github",
         // [
         //   "@semantic-release/git",
         //   {
