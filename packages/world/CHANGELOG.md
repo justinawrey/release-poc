@@ -1,3 +1,14 @@
+## [world-v2.0.0](https://github.com/justinawrey/release-poc/compare/world-v1.0.0...world-v2.0.0) (2022-09-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* maaaame
+
+### Features
+
+* maaaame ([5d084d1](https://github.com/justinawrey/release-poc/commit/5d084d1921a377a0b3ccaae506800cc3a24bf1db))
+
 ## world-v1.0.0 (2022-09-21)
 
 
