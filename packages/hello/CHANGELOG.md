@@ -1,3 +1,10 @@
+## [hello-v1.0.1](https://github.com/justinawrey/release-poc/compare/hello-v1.0.0...hello-v1.0.1) (2022-09-21)
+
+
+### Bug Fixes
+
+* sireeee ([e50c529](https://github.com/justinawrey/release-poc/commit/e50c529fa5646b24f969661eac32759cfee7c17e))
+
 ## hello-v1.0.0 (2022-09-21)
 
 
