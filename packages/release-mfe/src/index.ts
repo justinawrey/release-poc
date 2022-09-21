@@ -62,3 +62,5 @@ try {
 } catch (err) {
   console.error("The automated release failed with %O", err);
 }
+
+console.log("done");
