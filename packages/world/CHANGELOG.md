@@ -5,6 +5,13 @@
 
 * simpligy ([23c2446](https://github.com/justinawrey/release-poc/commit/23c2446cf33f1e612050066ebd3f31e2f7bf3bad))
 
+# [world-v2.2.0](https://github.com/justinawrey/release-poc/compare/world-v2.1.0...world-v2.2.0) (2022-09-21)
+
+
+### Features
+
+* simpligy ([23c2446](https://github.com/justinawrey/release-poc/commit/23c2446cf33f1e612050066ebd3f31e2f7bf3bad))
+
 # [world-v2.1.0](https://github.com/justinawrey/release-poc/compare/world-v2.0.0...world-v2.1.0) (2022-09-21)
 
 
