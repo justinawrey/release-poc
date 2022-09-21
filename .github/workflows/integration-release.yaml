@@ -1,0 +1,13 @@
+name: Integration release
+
+on:
+  workflow_run:
+    workflows:
+      - Integration
+    types:
+      - completed
+
+jobs:
+  integration-release:
+    uses: justinawrey/release-poc/.github/workflows/release.yaml@main
+    secrets: inherit
