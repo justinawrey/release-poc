@@ -1,3 +1,10 @@
+# [hello-v2.1.0](https://github.com/justinawrey/release-poc/compare/hello-v2.0.0...hello-v2.1.0) (2022-09-21)
+
+
+### Features
+
+* try releasing ([8aa1449](https://github.com/justinawrey/release-poc/commit/8aa14494fe9e50b641ee24b3889e62e8957ee739))
+
 # [hello-v2.0.0](https://github.com/justinawrey/release-poc/compare/hello-v1.10.0...hello-v2.0.0) (2022-07-21)
 
 
